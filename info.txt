@@ -1,3 +1,7 @@
 Hari Kammana
 Bangalore
+<<<<<<< HEAD
 India1
+=======
+India
+>>>>>>> refs/remotes/origin/master
